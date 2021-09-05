@@ -6,6 +6,8 @@ https://github.com/meltaxa/solariot
 # Support Devices:
 modbus-sma-SBn_n-1AV-40
 
+modbus-sungrow-sg3kd
+
 modbus-sungrow-sg3ks
 
 modbus-sungrow-sg5kd

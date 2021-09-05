@@ -1,6 +1,6 @@
 {
   "name": "TCPModbus Solar Inverter",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "slug": "modbus_inverter",
   "description": "Sungrow SMA inverter data extractor",
   "url": "https://github.com/ttvt/ModbusTCP",
