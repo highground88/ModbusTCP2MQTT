@@ -14,7 +14,7 @@
     "model": "",
     "timeout": 3,
     "scan_interval" : 10,
-    "mqtt_server": "",
+    "mqtt_server": "core-mosquitto",
     "mqtt_port": 1883,
     "mqtt_topic": "inverter/stats",
     "mqtt_username": "mqtt",
