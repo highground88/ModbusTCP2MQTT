@@ -10,7 +10,7 @@ read_register = {
   "5019": "grid_voltage_10",        # V
   "5022": "inverter_current_10",    # A
   "5031": "total_active_power",     # W
-  "5036": "grid_frequency_10"       # Hz
+  "5036": "grid_frequency_10",       # Hz
   "5071": "array_insulation_resistance_10",  	# k-ohm XX
   "5113": "daily_operation_time",  				# m XX
   "5128": "monthly_power_yield_0.01",			# Wh XX
