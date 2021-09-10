@@ -1,6 +1,6 @@
 {
-    "name": "TCPModbus Solar Inverter",
-    "url": "https://github.com/ttvt/ModbusTCP",
-    "maintainer": "TTVTien <ttvtien@gmail.com>"
+    "name": "TCPModbus Solar Inverter (TESTING FORK)",
+    "url": "https://github.com/highground88/ModbusTCP2MQTT",
+    "maintainer": "Creator: TTVTien <ttvtien@gmail.com>"
   }
   
